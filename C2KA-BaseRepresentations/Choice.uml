@@ -7,16 +7,14 @@
     <region xmi:type="uml:Region" xmi:id="_KOWHMOgLEe--vebs2_M8Fw" name="Region1">
       <subvertex xmi:type="uml:State" xmi:id="_XXT2oOgNEe-eOO7SGSMIXA" name="a+b">
         <region xmi:type="uml:Region" xmi:id="_dyCeYOgNEe-eOO7SGSMIXA" name="Region1">
-          <subvertex xmi:type="uml:State" xmi:id="_Nw0vcOgLEe--vebs2_M8Fw" name="a"/>
-          <subvertex xmi:type="uml:State" xmi:id="_JxpusOgMEe--vebs2_M8Fw" name="b"/>
+          <subvertex xmi:type="uml:State" xmi:id="_Nw0vcOgLEe--vebs2_M8Fw" name="a">
+            <doActivity xmi:type="uml:Activity" xmi:id="_8FZTYP9fEe-VdNk0tFhV7A" name="&lt;behaviour-expression>"/>
+          </subvertex>
+          <subvertex xmi:type="uml:State" xmi:id="_JxpusOgMEe--vebs2_M8Fw" name="b">
+            <doActivity xmi:type="uml:Activity" xmi:id="_-pu4YP9fEe-VdNk0tFhV7A" name="&lt;behaviour-expression>"/>
+          </subvertex>
         </region>
       </subvertex>
     </region>
   </packagedElement>
-  <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_YksPwOgNEe-eOO7SGSMIXA">
-    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_YkyWYOgNEe-eOO7SGSMIXA" source="http://www.eclipse.org/uml2/2.0.0/UML">
-      <references xmi:type="ecore:EPackage" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#_Kv8EIKFXEeS_KNX0nfvIVQ"/>
-    </eAnnotations>
-    <appliedProfile xmi:type="uml:Profile" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#ActionLanguage"/>
-  </profileApplication>
 </uml:Model>

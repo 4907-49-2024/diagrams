@@ -3,7 +3,7 @@
   <children xmi:type="notation:Shape" xmi:id="_KOWHMugLEe--vebs2_M8Fw" type="StateMachine_Shape">
     <children xmi:type="notation:DecorationNode" xmi:id="_KOWHM-gLEe--vebs2_M8Fw" type="StateMachine_NameLabel">
       <element xmi:type="uml:StateMachine" href="NextMappings.uml#_KN-60OgLEe--vebs2_M8Fw"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHNOgLEe--vebs2_M8Fw" width="269" height="20"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHNOgLEe--vebs2_M8Fw" width="545" height="20"/>
     </children>
     <children xmi:type="notation:BasicCompartment" xmi:id="_KOWHNegLEe--vebs2_M8Fw" type="StateMachine_RegionCompartment">
       <children xmi:type="notation:Shape" xmi:id="_KOWHNugLEe--vebs2_M8Fw" type="Region_Shape">
@@ -23,6 +23,14 @@
               <element xmi:type="uml:State" href="NextMappings.uml#_Nw0vcOgLEe--vebs2_M8Fw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NxFOJugLEe--vebs2_M8Fw"/>
             </children>
+            <children xmi:type="notation:BasicCompartment" xmi:id="_SJi8gP9fEe-VdNk0tFhV7A" type="compartment_shape_display">
+              <styles xmi:type="notation:TitleStyle" xmi:id="_SJi8gf9fEe-VdNk0tFhV7A"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SJi8gv9fEe-VdNk0tFhV7A"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_ZCACEP9fEe-VdNk0tFhV7A" type="Behavior_DoActivityBehaviorLabel">
+              <element xmi:type="uml:Activity" href="NextMappings.uml#_Y8poAP9fEe-VdNk0tFhV7A"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_ZCACEf9fEe-VdNk0tFhV7A" x="-10" y="-10"/>
+            </children>
             <element xmi:type="uml:State" href="NextMappings.uml#_Nw0vcOgLEe--vebs2_M8Fw"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NxFOIegLEe--vebs2_M8Fw" x="9" y="10"/>
           </children>
@@ -38,20 +46,28 @@
               <element xmi:type="uml:State" href="NextMappings.uml#_JxpusOgMEe--vebs2_M8Fw"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jx0GxOgMEe--vebs2_M8Fw"/>
             </children>
+            <children xmi:type="notation:BasicCompartment" xmi:id="_SJsGcP9fEe-VdNk0tFhV7A" type="compartment_shape_display">
+              <styles xmi:type="notation:TitleStyle" xmi:id="_SJsGcf9fEe-VdNk0tFhV7A"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SJsGcv9fEe-VdNk0tFhV7A"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_gJmW4P9fEe-VdNk0tFhV7A" type="Behavior_DoActivityBehaviorLabel">
+              <element xmi:type="uml:Activity" href="NextMappings.uml#_gJj6oP9fEe-VdNk0tFhV7A"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_gJmW4f9fEe-VdNk0tFhV7A" x="-10" y="-10"/>
+            </children>
             <element xmi:type="uml:State" href="NextMappings.uml#_JxpusOgMEe--vebs2_M8Fw"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JxzfsegMEe--vebs2_M8Fw" x="169" y="10"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JxzfsegMEe--vebs2_M8Fw" x="329" y="10"/>
           </children>
           <element xmi:type="uml:Region" href="NextMappings.uml#_KOWHMOgLEe--vebs2_M8Fw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHOugLEe--vebs2_M8Fw"/>
         </children>
         <element xmi:type="uml:Region" href="NextMappings.uml#_KOWHMOgLEe--vebs2_M8Fw"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHO-gLEe--vebs2_M8Fw" width="269" height="84"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHO-gLEe--vebs2_M8Fw" width="545" height="110"/>
       </children>
       <element xmi:type="uml:StateMachine" href="NextMappings.uml#_KN-60OgLEe--vebs2_M8Fw"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHPOgLEe--vebs2_M8Fw" y="20" width="269" height="84"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHPOgLEe--vebs2_M8Fw" y="20" width="545" height="110"/>
     </children>
     <element xmi:type="uml:StateMachine" href="NextMappings.uml#_KN-60OgLEe--vebs2_M8Fw"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHPegLEe--vebs2_M8Fw" x="30" y="30" width="269" height="104"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHPegLEe--vebs2_M8Fw" x="30" y="30" width="545" height="130"/>
   </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_KOWHPugLEe--vebs2_M8Fw" name="diagram_compatibility_version" stringValue="1.4.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_KOWHP-gLEe--vebs2_M8Fw"/>
