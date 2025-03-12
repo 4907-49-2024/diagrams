@@ -3,7 +3,7 @@
   <children xmi:type="notation:Shape" xmi:id="_KOWHMugLEe--vebs2_M8Fw" type="StateMachine_Shape">
     <children xmi:type="notation:DecorationNode" xmi:id="_KOWHM-gLEe--vebs2_M8Fw" type="StateMachine_NameLabel">
       <element xmi:type="uml:StateMachine" href="Parallel.uml#_KN-60OgLEe--vebs2_M8Fw"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHNOgLEe--vebs2_M8Fw" width="386" height="25"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHNOgLEe--vebs2_M8Fw" width="386" height="20"/>
     </children>
     <children xmi:type="notation:BasicCompartment" xmi:id="_KOWHNegLEe--vebs2_M8Fw" type="StateMachine_RegionCompartment">
       <children xmi:type="notation:Shape" xmi:id="_KOWHNugLEe--vebs2_M8Fw" type="Region_Shape">
@@ -17,7 +17,7 @@
             </eAnnotations>
             <children xmi:type="notation:DecorationNode" xmi:id="_CUzGIOgNEe-eOO7SGSMIXA" type="State_NameLabel">
               <element xmi:type="uml:State" href="Parallel.uml#_CUaEkOgNEe-eOO7SGSMIXA"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GDXCkegNEe-eOO7SGSMIXA" width="340" height="25"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GDXCkegNEe-eOO7SGSMIXA" width="340" height="20"/>
             </children>
             <children xmi:type="notation:DecorationNode" xmi:id="_CUzGIegNEe-eOO7SGSMIXA" type="State_FloatingNameLabel">
               <element xmi:type="uml:State" href="Parallel.uml#_CUaEkOgNEe-eOO7SGSMIXA"/>
@@ -40,6 +40,14 @@
                     <children xmi:type="notation:BasicCompartment" xmi:id="_Qun18-gOEe-eOO7SGSMIXA" type="State_RegionCompartment">
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Qun19OgOEe-eOO7SGSMIXA"/>
                     </children>
+                    <children xmi:type="notation:BasicCompartment" xmi:id="_ms2MA_9gEe-VdNk0tFhV7A" type="compartment_shape_display">
+                      <styles xmi:type="notation:TitleStyle" xmi:id="_ms2MBP9gEe-VdNk0tFhV7A"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ms2MBf9gEe-VdNk0tFhV7A"/>
+                    </children>
+                    <children xmi:type="notation:Shape" xmi:id="_patgcP9gEe-VdNk0tFhV7A" type="Behavior_DoActivityBehaviorLabel">
+                      <element xmi:type="uml:Activity" href="Parallel.uml#_paqdIP9gEe-VdNk0tFhV7A"/>
+                      <layoutConstraint xmi:type="notation:Location" xmi:id="_patgcf9gEe-VdNk0tFhV7A" x="-10" y="-10"/>
+                    </children>
                     <element xmi:type="uml:State" href="Parallel.uml#_QuZzgOgOEe-eOO7SGSMIXA"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QunO4egOEe-eOO7SGSMIXA" x="139" y="35"/>
                   </children>
@@ -61,6 +69,14 @@
                     <children xmi:type="notation:BasicCompartment" xmi:id="_ReyupegOEe-eOO7SGSMIXA" type="State_RegionCompartment">
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ReyupugOEe-eOO7SGSMIXA"/>
                     </children>
+                    <children xmi:type="notation:BasicCompartment" xmi:id="_ms3aIP9gEe-VdNk0tFhV7A" type="compartment_shape_display">
+                      <styles xmi:type="notation:TitleStyle" xmi:id="_ms3aIf9gEe-VdNk0tFhV7A"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ms3aIv9gEe-VdNk0tFhV7A"/>
+                    </children>
+                    <children xmi:type="notation:Shape" xmi:id="_rDMhMP9gEe-VdNk0tFhV7A" type="Behavior_DoActivityBehaviorLabel">
+                      <element xmi:type="uml:Activity" href="Parallel.uml#_rDKE8P9gEe-VdNk0tFhV7A"/>
+                      <layoutConstraint xmi:type="notation:Location" xmi:id="_rDMhMf9gEe-VdNk0tFhV7A" x="-10" y="-10"/>
+                    </children>
                     <element xmi:type="uml:State" href="Parallel.uml#_RerZ4OgOEe-eOO7SGSMIXA"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ReyuoegOEe-eOO7SGSMIXA" x="139" y="32"/>
                   </children>
@@ -70,7 +86,7 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QNqd8egOEe-eOO7SGSMIXA" y="103" width="340" height="103"/>
               </children>
               <element xmi:type="uml:State" href="Parallel.uml#_CUaEkOgNEe-eOO7SGSMIXA"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CUzGJOgNEe-eOO7SGSMIXA" y="25" width="340" height="207"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CUzGJOgNEe-eOO7SGSMIXA" y="20" width="340" height="207"/>
             </children>
             <children xmi:type="notation:BasicCompartment" xmi:id="_7qwakOgNEe-eOO7SGSMIXA" type="compartment_shape_display">
               <styles xmi:type="notation:TitleStyle" xmi:id="_7qwakegNEe-eOO7SGSMIXA"/>
@@ -97,7 +113,7 @@
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QN5HcegOEe-eOO7SGSMIXA" x="-10" y="-10"/>
             </children>
             <element xmi:type="uml:State" href="Parallel.uml#_CUaEkOgNEe-eOO7SGSMIXA"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CUxQ8egNEe-eOO7SGSMIXA" x="29" y="25" width="340" height="232"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CUxQ8egNEe-eOO7SGSMIXA" x="29" y="25" width="340" height="227"/>
           </children>
           <element xmi:type="uml:Region" href="Parallel.uml#_KOWHMOgLEe--vebs2_M8Fw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHOugLEe--vebs2_M8Fw"/>
@@ -106,7 +122,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHO-gLEe--vebs2_M8Fw" width="386" height="291"/>
       </children>
       <element xmi:type="uml:StateMachine" href="Parallel.uml#_KN-60OgLEe--vebs2_M8Fw"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHPOgLEe--vebs2_M8Fw" y="25" width="386" height="291"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHPOgLEe--vebs2_M8Fw" y="20" width="386" height="296"/>
     </children>
     <element xmi:type="uml:StateMachine" href="Parallel.uml#_KN-60OgLEe--vebs2_M8Fw"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHPegLEe--vebs2_M8Fw" x="30" y="30" width="386" height="316"/>
