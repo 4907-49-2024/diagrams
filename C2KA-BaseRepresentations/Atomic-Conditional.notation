@@ -3,7 +3,7 @@
   <children xmi:type="notation:Shape" xmi:id="_KOWHMugLEe--vebs2_M8Fw" type="StateMachine_Shape">
     <children xmi:type="notation:DecorationNode" xmi:id="_KOWHM-gLEe--vebs2_M8Fw" type="StateMachine_NameLabel">
       <element xmi:type="uml:StateMachine" href="Atomic-Conditional.uml#_KN-60OgLEe--vebs2_M8Fw"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHNOgLEe--vebs2_M8Fw" width="437" height="20"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHNOgLEe--vebs2_M8Fw" width="437" height="16"/>
     </children>
     <children xmi:type="notation:BasicCompartment" xmi:id="_KOWHNegLEe--vebs2_M8Fw" type="StateMachine_RegionCompartment">
       <children xmi:type="notation:Shape" xmi:id="_KOWHNugLEe--vebs2_M8Fw" type="Region_Shape">
@@ -43,7 +43,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHO-gLEe--vebs2_M8Fw" width="437" height="191"/>
       </children>
       <element xmi:type="uml:StateMachine" href="Atomic-Conditional.uml#_KN-60OgLEe--vebs2_M8Fw"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHPOgLEe--vebs2_M8Fw" y="20" width="437" height="191"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHPOgLEe--vebs2_M8Fw" y="16" width="437" height="195"/>
     </children>
     <element xmi:type="uml:StateMachine" href="Atomic-Conditional.uml#_KN-60OgLEe--vebs2_M8Fw"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KOWHPegLEe--vebs2_M8Fw" x="30" y="30" width="437" height="211"/>
