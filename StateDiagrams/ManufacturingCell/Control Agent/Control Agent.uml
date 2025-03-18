@@ -3,7 +3,7 @@
   <packageImport xmi:type="uml:PackageImport" xmi:id="_iXSdwAAgEfCvSrFeLTR7qQ">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
-  <packagedElement xmi:type="uml:StateMachine" xmi:id="_8nmv4AAgEfCvSrFeLTR7qQ" name="Control Agent">
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_8nmv4AAgEfCvSrFeLTR7qQ" name="C">
     <region xmi:type="uml:Region" xmi:id="_-H6sEAAgEfCvSrFeLTR7qQ" name="Region1">
       <transition xmi:type="uml:Transition" xmi:id="_DeeOIAAuEfCvSrFeLTR7qQ" name="start / load" source="_MiUKAAAqEfCvSrFeLTR7qQ" target="_Nag9UAAqEfCvSrFeLTR7qQ"/>
       <transition xmi:type="uml:Transition" xmi:id="_50bf0AAvEfCvSrFeLTR7qQ" name="loaded / prepare" source="_Nag9UAAqEfCvSrFeLTR7qQ" target="_PcpNIAAqEfCvSrFeLTR7qQ"/>

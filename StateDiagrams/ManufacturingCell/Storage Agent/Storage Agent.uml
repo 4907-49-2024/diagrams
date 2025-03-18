@@ -3,7 +3,7 @@
   <packageImport xmi:type="uml:PackageImport" xmi:id="_dIibwAAyEfCvSrFeLTR7qQ">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
-  <packagedElement xmi:type="uml:StateMachine" xmi:id="_dH8l4AAyEfCvSrFeLTR7qQ" name="Storage Agent">
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_dH8l4AAyEfCvSrFeLTR7qQ" name="S">
     <region xmi:type="uml:Region" xmi:id="_dH9M8AAyEfCvSrFeLTR7qQ" name="Region1">
       <transition xmi:type="uml:Transition" xmi:id="_ohXDQAA0EfCvSrFeLTR7qQ" name="load / loaded" source="_FngIcAA0EfCvSrFeLTR7qQ" target="_IgUIoAA0EfCvSrFeLTR7qQ"/>
       <transition xmi:type="uml:Transition" xmi:id="_yZCTAAA0EfCvSrFeLTR7qQ" name="unload / unloaded" source="_IgUIoAA0EfCvSrFeLTR7qQ" target="_FngIcAA0EfCvSrFeLTR7qQ"/>
