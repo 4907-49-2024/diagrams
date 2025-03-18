@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_-vJxQQP8EfCcP8pzFhRo4g" type="PapyrusUMLStateMachineDiagram" name="State Machine Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_-vJxQgP8EfCcP8pzFhRo4g" type="StateMachine_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-vJxQwP8EfCcP8pzFhRo4g" type="StateMachine_NameLabel">
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-vJxRAP8EfCcP8pzFhRo4g" width="700" height="20"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_-vJxRQP8EfCcP8pzFhRo4g" type="StateMachine_RegionCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_-vJxRgP8EfCcP8pzFhRo4g" type="Region_Shape">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_-vJxRwP8EfCcP8pzFhRo4g" source="RegionAnnotationKey">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_-vJxSAP8EfCcP8pzFhRo4g" key="RegionZoneKey" value=""/>
+        </eAnnotations>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_-vJxSQP8EfCcP8pzFhRo4g" type="Region_SubvertexCompartment">
+          <children xmi:type="notation:Shape" xmi:id="_ZwHAsAP-EfCcP8pzFhRo4g" type="State_Shape">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ZwHAsgP-EfCcP8pzFhRo4g" type="State_NameLabel"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_ZwHAswP-EfCcP8pzFhRo4g" type="State_FloatingNameLabel">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_ZwHAtAP-EfCcP8pzFhRo4g" x="40"/>
+            </children>
+            <children xmi:type="notation:BasicCompartment" xmi:id="_ZwHAtQP-EfCcP8pzFhRo4g" type="State_RegionCompartment">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZwHAtgP-EfCcP8pzFhRo4g"/>
+            </children>
+            <children xmi:type="notation:BasicCompartment" xmi:id="_ZwLSIAP-EfCcP8pzFhRo4g" type="compartment_shape_display">
+              <styles xmi:type="notation:TitleStyle" xmi:id="_ZwLSIQP-EfCcP8pzFhRo4g"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZwLSIgP-EfCcP8pzFhRo4g"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_tQRNoAP-EfCcP8pzFhRo4g" type="Behavior_DoActivityBehaviorLabel">
+              <element xmi:type="uml:Activity" href="Sample%20Flow%20Meter.uml#_tQNjQAP-EfCcP8pzFhRo4g"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_tQRNoQP-EfCcP8pzFhRo4g" x="-10" y="-10"/>
+            </children>
+            <element xmi:type="uml:State" href="Sample%20Flow%20Meter.uml#_ZwEkcAP-EfCcP8pzFhRo4g"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZwHAsQP-EfCcP8pzFhRo4g" x="209" y="50"/>
+          </children>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-vJxSgP8EfCcP8pzFhRo4g"/>
+        </children>
+        <element xmi:type="uml:Region" href="Sample%20Flow%20Meter.uml#_-vJxQAP8EfCcP8pzFhRo4g"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-vJxSwP8EfCcP8pzFhRo4g" width="700" height="280"/>
+      </children>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-vJxTAP8EfCcP8pzFhRo4g" y="20" width="700" height="280"/>
+    </children>
+    <element xmi:type="uml:StateMachine" href="Sample%20Flow%20Meter.uml#_-vJKMAP8EfCcP8pzFhRo4g"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-vJxTQP8EfCcP8pzFhRo4g" x="30" y="30" width="700" height="300"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_-vJxTgP8EfCcP8pzFhRo4g" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_-vJxTwP8EfCcP8pzFhRo4g"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_-vJxUAP8EfCcP8pzFhRo4g" diagramKindId="org.eclipse.papyrus.uml.diagram.stateMachine">
+    <owner xmi:type="uml:Model" href="Sample%20Flow%20Meter.uml#_-vGG4AP8EfCcP8pzFhRo4g"/>
+  </styles>
+  <element xmi:type="uml:StateMachine" href="Sample%20Flow%20Meter.uml#_-vJKMAP8EfCcP8pzFhRo4g"/>
+  <edges xmi:type="notation:Connector" xmi:id="_hRnqUAP-EfCcP8pzFhRo4g" type="Transition_Edge" source="_ZwHAsAP-EfCcP8pzFhRo4g" target="_ZwHAsAP-EfCcP8pzFhRo4g">
+    <children xmi:type="notation:DecorationNode" xmi:id="_hRnqUwP-EfCcP8pzFhRo4g" type="Transition_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_uvIYUAP-EfCcP8pzFhRo4g" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_hRnqVAP-EfCcP8pzFhRo4g" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_hRnqVQP-EfCcP8pzFhRo4g" type="Transition_GuardLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_uvLboAP-EfCcP8pzFhRo4g" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_hRnqVgP-EfCcP8pzFhRo4g" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_hRnqVwP-EfCcP8pzFhRo4g" type="Transition_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_uvNQ0AP-EfCcP8pzFhRo4g" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_hRnqWAP-EfCcP8pzFhRo4g" y="60"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_hRnqUQP-EfCcP8pzFhRo4g"/>
+    <element xmi:type="uml:Transition" href="Sample%20Flow%20Meter.uml#_hRix0AP-EfCcP8pzFhRo4g"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hRnqUgP-EfCcP8pzFhRo4g" points="[280, 144, -643984, -643984]$[260, 144, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hRwNMAP-EfCcP8pzFhRo4g" id="(0.6153846153846154,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hRwNMQP-EfCcP8pzFhRo4g" id="(0.3076923076923077,1.0)"/>
+  </edges>
+</notation:Diagram>
