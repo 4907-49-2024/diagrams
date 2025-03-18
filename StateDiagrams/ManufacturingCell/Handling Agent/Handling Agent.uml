@@ -11,7 +11,7 @@
         <doActivity xmi:type="uml:Activity" xmi:id="_JDowwAA3EfCvSrFeLTR7qQ" name="skip"/>
       </subvertex>
       <subvertex xmi:type="uml:State" xmi:id="_-u_GkAA1EfCvSrFeLTR7qQ" name="MOVE">
-        <doActivity xmi:type="uml:Activity" xmi:id="_apPVgAA3EfCvSrFeLTR7qQ" name=" if (status) = 1) -> material := 1 | ~(status = 1) = 0)-> material := 0 fi"/>
+        <doActivity xmi:type="uml:Activity" xmi:id="_apPVgAA3EfCvSrFeLTR7qQ" name=" if ((status) = 1) -> material := 1 | ~(status = 1) = 0)-> material := 0 fi"/>
       </subvertex>
     </region>
   </packagedElement>
