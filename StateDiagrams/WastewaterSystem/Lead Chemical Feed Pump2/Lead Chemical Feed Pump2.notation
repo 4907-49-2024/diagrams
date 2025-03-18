@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_Uhbx0QP9EfCcP8pzFhRo4g" type="PapyrusUMLStateMachineDiagram" name="State Machine Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_Uhbx0gP9EfCcP8pzFhRo4g" type="StateMachine_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Uhbx0wP9EfCcP8pzFhRo4g" type="StateMachine_NameLabel">
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uhbx1AP9EfCcP8pzFhRo4g" width="700" height="20"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Uhbx1QP9EfCcP8pzFhRo4g" type="StateMachine_RegionCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_Uhbx1gP9EfCcP8pzFhRo4g" type="Region_Shape">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Uhbx1wP9EfCcP8pzFhRo4g" source="RegionAnnotationKey">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Uhbx2AP9EfCcP8pzFhRo4g" key="RegionZoneKey" value=""/>
+        </eAnnotations>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_Uhbx2QP9EfCcP8pzFhRo4g" type="Region_SubvertexCompartment">
+          <children xmi:type="notation:Shape" xmi:id="__aatEAQCEfCcP8pzFhRo4g" type="State_Shape">
+            <children xmi:type="notation:DecorationNode" xmi:id="__aatEgQCEfCcP8pzFhRo4g" type="State_NameLabel"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="__aatEwQCEfCcP8pzFhRo4g" type="State_FloatingNameLabel">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="__aatFAQCEfCcP8pzFhRo4g" x="40"/>
+            </children>
+            <children xmi:type="notation:BasicCompartment" xmi:id="__aatFQQCEfCcP8pzFhRo4g" type="State_RegionCompartment">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aatFgQCEfCcP8pzFhRo4g"/>
+            </children>
+            <children xmi:type="notation:BasicCompartment" xmi:id="__ae-gAQCEfCcP8pzFhRo4g" type="compartment_shape_display">
+              <styles xmi:type="notation:TitleStyle" xmi:id="__ae-gQQCEfCcP8pzFhRo4g"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="__ae-ggQCEfCcP8pzFhRo4g"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_IxLBEAQDEfCcP8pzFhRo4g" type="Behavior_DoActivityBehaviorLabel">
+              <element xmi:type="uml:Activity" href="Lead%20Chemical%20Feed%20Pump2.uml#_IxHWsAQDEfCcP8pzFhRo4g"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_IxLBEQQDEfCcP8pzFhRo4g" x="-10" y="-10"/>
+            </children>
+            <element xmi:type="uml:State" href="Lead%20Chemical%20Feed%20Pump2.uml#__aY34AQCEfCcP8pzFhRo4g"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__aatEQQCEfCcP8pzFhRo4g" x="29" y="50"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_Ku-KgAQDEfCcP8pzFhRo4g" type="State_Shape">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Ku-KggQDEfCcP8pzFhRo4g" type="State_NameLabel"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Ku-KgwQDEfCcP8pzFhRo4g" type="State_FloatingNameLabel">
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Ku-KhAQDEfCcP8pzFhRo4g" x="40"/>
+            </children>
+            <children xmi:type="notation:BasicCompartment" xmi:id="_Ku-KhQQDEfCcP8pzFhRo4g" type="State_RegionCompartment">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ku-KhgQDEfCcP8pzFhRo4g"/>
+            </children>
+            <children xmi:type="notation:BasicCompartment" xmi:id="_KvCb8AQDEfCcP8pzFhRo4g" type="compartment_shape_display">
+              <styles xmi:type="notation:TitleStyle" xmi:id="_KvCb8QQDEfCcP8pzFhRo4g"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KvCb8gQDEfCcP8pzFhRo4g"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_Q79RMAQDEfCcP8pzFhRo4g" type="Behavior_DoActivityBehaviorLabel">
+              <element xmi:type="uml:Activity" href="Lead%20Chemical%20Feed%20Pump2.uml#_Q75m0AQDEfCcP8pzFhRo4g"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Q79RMQQDEfCcP8pzFhRo4g" x="-10" y="-10"/>
+            </children>
+            <element xmi:type="uml:State" href="Lead%20Chemical%20Feed%20Pump2.uml#_Ku7uQAQDEfCcP8pzFhRo4g"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ku-KgQQDEfCcP8pzFhRo4g" x="369" y="170"/>
+          </children>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uhbx2gP9EfCcP8pzFhRo4g"/>
+        </children>
+        <element xmi:type="uml:Region" href="Lead%20Chemical%20Feed%20Pump2.uml#_Uhbx0AP9EfCcP8pzFhRo4g"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uhbx2wP9EfCcP8pzFhRo4g" width="700" height="280"/>
+      </children>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uhbx3AP9EfCcP8pzFhRo4g" y="20" width="700" height="280"/>
+    </children>
+    <element xmi:type="uml:StateMachine" href="Lead%20Chemical%20Feed%20Pump2.uml#_UhbKwAP9EfCcP8pzFhRo4g"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uhbx3QP9EfCcP8pzFhRo4g" x="30" y="30" width="700" height="300"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_Uhbx3gP9EfCcP8pzFhRo4g" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_Uhbx3wP9EfCcP8pzFhRo4g"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_Uhbx4AP9EfCcP8pzFhRo4g" diagramKindId="org.eclipse.papyrus.uml.diagram.stateMachine">
+    <owner xmi:type="uml:Model" href="Lead%20Chemical%20Feed%20Pump2.uml#_UhVrMAP9EfCcP8pzFhRo4g"/>
+  </styles>
+  <element xmi:type="uml:StateMachine" href="Lead%20Chemical%20Feed%20Pump2.uml#_UhbKwAP9EfCcP8pzFhRo4g"/>
+  <edges xmi:type="notation:Connector" xmi:id="_Tf9fAAQDEfCcP8pzFhRo4g" type="Transition_Edge" source="__aatEAQCEfCcP8pzFhRo4g" target="_Ku-KgAQDEfCcP8pzFhRo4g">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Tf9fAwQDEfCcP8pzFhRo4g" type="Transition_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Tf9fBAQDEfCcP8pzFhRo4g" x="11" y="-21"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Tf9fBQQDEfCcP8pzFhRo4g" type="Transition_GuardLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Tf9fBgQDEfCcP8pzFhRo4g" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Tf9fBwQDEfCcP8pzFhRo4g" type="Transition_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Tf9fCAQDEfCcP8pzFhRo4g" y="60"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Tf9fAQQDEfCcP8pzFhRo4g"/>
+    <element xmi:type="uml:Transition" href="Lead%20Chemical%20Feed%20Pump2.uml#_Tf5NkAQDEfCcP8pzFhRo4g"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Tf9fAgQDEfCcP8pzFhRo4g" points="[300, 100, -643984, -643984]$[500, 220, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_TgGB4AQDEfCcP8pzFhRo4g" id="(0.916030534351145,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_TgGB4QQDEfCcP8pzFhRo4g" id="(0.3424657534246575,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_UZGtgAQDEfCcP8pzFhRo4g" type="Transition_Edge" source="_Ku-KgAQDEfCcP8pzFhRo4g" target="__aatEAQCEfCcP8pzFhRo4g">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UZGtgwQDEfCcP8pzFhRo4g" type="Transition_NameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UZGthAQDEfCcP8pzFhRo4g" x="4" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UZGthQQDEfCcP8pzFhRo4g" type="Transition_GuardLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UZGthgQDEfCcP8pzFhRo4g" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UZGthwQDEfCcP8pzFhRo4g" type="Transition_StereotypeLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UZGtiAQDEfCcP8pzFhRo4g" y="60"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_UZGtgQQDEfCcP8pzFhRo4g"/>
+    <element xmi:type="uml:Transition" href="Lead%20Chemical%20Feed%20Pump2.uml#_UZB1AAQDEfCcP8pzFhRo4g"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UZGtggQDEfCcP8pzFhRo4g" points="[420, 220, -643984, -643984]$[240, 159, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UZQegAQDEfCcP8pzFhRo4g" id="(0.0684931506849315,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UZQegQQDEfCcP8pzFhRo4g" id="(0.6870229007633588,1.0)"/>
+  </edges>
+</notation:Diagram>
