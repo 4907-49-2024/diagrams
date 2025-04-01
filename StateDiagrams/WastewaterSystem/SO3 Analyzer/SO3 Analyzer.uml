@@ -7,6 +7,7 @@
     <region xmi:type="uml:Region" xmi:id="_DaRSAAP8EfCcP8pzFhRo4g" name="Region1">
       <transition xmi:type="uml:Transition" xmi:id="_pmWykAP8EfCcP8pzFhRo4g" name="fault / fault" source="_HixYcAP8EfCcP8pzFhRo4g" target="_H1XkUAP8EfCcP8pzFhRo4g"/>
       <transition xmi:type="uml:Transition" xmi:id="_wbpPYAP8EfCcP8pzFhRo4g" name="fixed / N" source="_H1XkUAP8EfCcP8pzFhRo4g" target="_HixYcAP8EfCcP8pzFhRo4g"/>
+      <transition xmi:type="uml:Transition" xmi:id="_YZ-L8A65EfC73aJmpZAT2Q" name="res / N" source="_HixYcAP8EfCcP8pzFhRo4g" target="_H1XkUAP8EfCcP8pzFhRo4g"/>
       <subvertex xmi:type="uml:State" xmi:id="_HixYcAP8EfCcP8pzFhRo4g" name="GETSO3">
         <doActivity xmi:type="uml:Activity" xmi:id="_SjSfkAP8EfCcP8pzFhRo4g" name="residual := MEASURE_SBS_RESIDUAL(effluent)"/>
       </subvertex>
