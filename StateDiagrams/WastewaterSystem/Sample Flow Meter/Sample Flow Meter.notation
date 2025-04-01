@@ -11,12 +11,14 @@
         </eAnnotations>
         <children xmi:type="notation:BasicCompartment" xmi:id="_-vJxSQP8EfCcP8pzFhRo4g" type="Region_SubvertexCompartment">
           <children xmi:type="notation:Shape" xmi:id="_ZwHAsAP-EfCcP8pzFhRo4g" type="State_Shape">
-            <children xmi:type="notation:DecorationNode" xmi:id="_ZwHAsgP-EfCcP8pzFhRo4g" type="State_NameLabel"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_ZwHAsgP-EfCcP8pzFhRo4g" type="State_NameLabel">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NKbNUA6YEfC73aJmpZAT2Q" width="181"/>
+            </children>
             <children xmi:type="notation:DecorationNode" xmi:id="_ZwHAswP-EfCcP8pzFhRo4g" type="State_FloatingNameLabel">
               <layoutConstraint xmi:type="notation:Location" xmi:id="_ZwHAtAP-EfCcP8pzFhRo4g" x="40"/>
             </children>
             <children xmi:type="notation:BasicCompartment" xmi:id="_ZwHAtQP-EfCcP8pzFhRo4g" type="State_RegionCompartment">
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZwHAtgP-EfCcP8pzFhRo4g"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZwHAtgP-EfCcP8pzFhRo4g" y="-1" width="181"/>
             </children>
             <children xmi:type="notation:BasicCompartment" xmi:id="_ZwLSIAP-EfCcP8pzFhRo4g" type="compartment_shape_display">
               <styles xmi:type="notation:TitleStyle" xmi:id="_ZwLSIQP-EfCcP8pzFhRo4g"/>
@@ -27,7 +29,7 @@
               <layoutConstraint xmi:type="notation:Location" xmi:id="_tQRNoQP-EfCcP8pzFhRo4g" x="-10" y="-10"/>
             </children>
             <element xmi:type="uml:State" href="Sample%20Flow%20Meter.uml#_ZwEkcAP-EfCcP8pzFhRo4g"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZwHAsQP-EfCcP8pzFhRo4g" x="209" y="50"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZwHAsQP-EfCcP8pzFhRo4g" x="209" y="50" width="181"/>
           </children>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-vJxSgP8EfCcP8pzFhRo4g"/>
         </children>
